@@ -1,0 +1,12 @@
+# Entorno virtual de Python
+venv/
+__pycache__/
+*.pyc
+
+# Archivos de logs y simulaciones locales
+logs/*.log
+*.sqlite
+
+# Credenciales o configuraciones locales
+.env
+configs/secrets.json
